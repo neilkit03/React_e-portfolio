@@ -1,0 +1,57 @@
+.secondspace {
+  height: 150px;
+}
+
+.myphoto {
+  height: 360px;
+  width: 360px;
+  flex-wrap: wrap;
+  margin-right: 200px;
+  margin-bottom: 20px;
+  margin-left: 60px;
+}
+
+.aboutmePhotoBox {
+  padding-top: 100px;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+.aboutmeBox {
+  flex-wrap: wrap;
+  width: 500px;
+  color: #cac0b3;
+  margin-left: 200px;
+}
+
+.mystory {
+  font-size: 20px;
+}
+
+.thirdspace {
+  height: 150px;
+}
+
+.contact {
+  color: #cac0b3;
+}
+
+.fa-brands,
+.fa-regular {
+  margin: 1rem;
+  font-size: 48px;
+}
+
+.email-Link {
+  color: #cac0b3;
+}
+
+.email {
+  font-size: 30px;
+}
+
+h4 {
+  text-align: center;
+  color: #cac0b3;
+  font-family: "Courier Prime", monospace;
+}
