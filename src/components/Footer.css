@@ -1,0 +1,261 @@
+/* Icon Animation */
+
+@keyframes fa-brands {
+  16.65% {
+    -webkit-transform: translateY(-8px);
+    transform: translateY(-8px);
+  }
+  33.3% {
+    -webkit-transform: translateY(6px);
+    transform: translateY(6px);
+  }
+  49.95% {
+    -webkit-transform: translateY(-4px);
+    transform: translateY(-4px);
+  }
+  66.6% {
+    -webkit-transform: translateY(2px);
+    transform: translateY(2px);
+  }
+  83.25% {
+    -webkit-transform: translateY(-1px);
+    transform: translateY(-1px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+.fa-brands {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-brands:hover,
+.fa-brands:focus,
+.fa-brands:active {
+  -webkit-animation-name: fa-brands;
+  animation-name: fa-brands;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+  color: white;
+  text-shadow: 0 0 7px white;
+}
+
+/* linked in Animation */
+
+@keyframes fa-linkedin {
+  16.65% {
+    -webkit-transform: translateY(-8px);
+    transform: translateY(-8px);
+  }
+  33.3% {
+    -webkit-transform: translateY(6px);
+    transform: translateY(6px);
+  }
+  49.95% {
+    -webkit-transform: translateY(-4px);
+    transform: translateY(-4px);
+  }
+  66.6% {
+    -webkit-transform: translateY(2px);
+    transform: translateY(2px);
+  }
+  83.25% {
+    -webkit-transform: translateY(-1px);
+    transform: translateY(-1px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+.fa-linkedin {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-linkedin:hover,
+.fa-linkedin:focus,
+.fa-linkedin:active {
+  -webkit-animation-name: fa-linkedin;
+  animation-name: fa-linkedin;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+  color: #0072b1;
+  text-shadow: 0 0 7px #0072b1;
+}
+
+/* IG Animation */
+
+@keyframes fa-instagram {
+  16.65% {
+    -webkit-transform: translateY(-8px);
+    transform: translateY(-8px);
+  }
+  33.3% {
+    -webkit-transform: translateY(6px);
+    transform: translateY(6px);
+  }
+  49.95% {
+    -webkit-transform: translateY(-4px);
+    transform: translateY(-4px);
+  }
+  66.6% {
+    -webkit-transform: translateY(2px);
+    transform: translateY(2px);
+  }
+  83.25% {
+    -webkit-transform: translateY(-1px);
+    transform: translateY(-1px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+.fa-instagram {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-instagram:hover,
+.fa-instagram:focus,
+.fa-instagram:active {
+  -webkit-animation-name: fa-instagram;
+  animation-name: fa-instagram;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+  color: #c13584;
+  text-shadow: 0 0 7px #c13584;
+}
+
+/* email animation */
+
+@keyframes fa-regular {
+  16.65% {
+    -webkit-transform: translateY(-8px);
+    transform: translateY(-8px);
+  }
+  33.3% {
+    -webkit-transform: translateY(6px);
+    transform: translateY(6px);
+  }
+  49.95% {
+    -webkit-transform: translateY(-4px);
+    transform: translateY(-4px);
+  }
+  66.6% {
+    -webkit-transform: translateY(2px);
+    transform: translateY(2px);
+  }
+  83.25% {
+    -webkit-transform: translateY(-1px);
+    transform: translateY(-1px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+.fa-regular {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-regular:hover,
+.fa-regular:focus,
+.fa-regular:active {
+  -webkit-animation-name: fa-regular;
+  animation-name: fa-regular;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+  color: #f44336;
+  text-shadow: 0 0 7px #f44336;
+}
+
+/* .fa-regular:hover {
+    color: #f44336;
+    box-shadow: 0 0 5px #ffee10;
+    text-shadow: 0 0 7px #f44336;
+  } */
+
+/* end of animation */
+.spacebeforefooter {
+  height: 20rem;
+}
+
+.footerBy {
+  font-size: 18px;
+  color: #cac0b3;
+}
+
+.footerLink {
+  text-decoration: none;
+  font-size: 18px;
+  color: #cac0b3;
+}
+
+.contact {
+  justify-content: center;
+}
+
+.social-icons-sub {
+  justify-content: center;
+}
+
+.email-Link {
+  justify-content: center;
+}
+
+.email {
+  justify-content: center;
+}
+
+.footer {
+  justify-content: center;
+}

@@ -1,4 +1,4 @@
-.Splashy {
+.Splash {
   position: fixed;
   top: 0;
   left: 0;
@@ -11,7 +11,19 @@
   line-height: 90vh;
 }
 
-.Splashy.display-none {
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 1s ease-in forwards;
+  font-size: 50px;
+}
+
+.Splash.display-none {
   position: fixed;
   opacity: 0;
   top: 0;
@@ -24,16 +36,4 @@
   text-align: center;
   line-height: 90vh;
   transition: all 0.5s;
-}
-
-@keyframes fadeIn {
-  to {
-    opacity: 1;
-  }
-}
-
-.fade-in {
-  opacity: 0;
-  animation: fadeIn 1s ease-in forwards;
-  font-size: 50px;
 }
